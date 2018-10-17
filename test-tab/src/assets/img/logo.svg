@@ -2,7 +2,7 @@
  xmlns="http://www.w3.org/2000/svg"
  xmlns:xlink="http://www.w3.org/1999/xlink"
  width="155px" height="33px">
-<text kerning="auto" font-family="Myriad Pro" fill="rgb(0, 0, 0)" font-size="30px" x="40px" y="30.062px"><tspan font-size="30px" font-family="OpenSans" font-weight="bold" fill="#FFFFFF">GUS</tspan><tspan font-size="30px" font-family="OpenSans" font-weight="bold" fill="#A6A7B0">TO</tspan></text>
+<text kerning="auto" font-family="Helvetica" fill="rgb(0, 0, 0)" font-size="30px" x="50px" y="30.062px"><tspan font-size="30px" font-family="Arial" font-weight="bold" letter-spacing="-2" fill="#FFFFFF">GUS</tspan><tspan font-size="30px" letter-spacing="-2" font-family="Arial" font-weight="bold" fill="#A6A7B0">TO</tspan></text>
 <path fill-rule="evenodd"  fill="rgb(202, 202, 204)"
  d="M27.000,32.000 L39.000,12.000 L15.001,12.000 L27.000,32.000 Z"/>
 <path fill-rule="evenodd"  fill="rgb(166, 167, 176)"

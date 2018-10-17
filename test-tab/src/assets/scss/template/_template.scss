@@ -18,24 +18,34 @@ html,
 
 // Full Width Headers
 .header {
-  background: #8a8a8a;
+  background: #cccccc;
 }
 
 .header .columns {
   padding-bottom: 0;
 }
 
+.logo {
+  background: #666666;
+}
+
+.text {
+  color: #666666;
+}
+
+.text1 {
+  color: #999999;
+}
+
+
 .header p {
   color: #fff;
   padding-top: 15px;
 }
 
-.headera {
-  color: #fff;
-}
 
 .header .wrapper-inner {
-  padding: 20px;
+  padding: 0;
 }
 
 

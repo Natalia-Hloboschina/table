@@ -25,7 +25,21 @@ html,
   padding-bottom: 0;
 }
 
-.logo {
+.wrapper-middle {
+  background:#f1f1f1;
+}
+
+.wrapper-footer {
+  background:#e1e1e1;
+}
+
+
+.columns-middle {
+  background:#ffffff;
+}
+
+
+.background-row1 {
   background: #666666;
 }
 
@@ -37,6 +51,26 @@ html,
   color: #999999;
 }
 
+.text2 {
+  color: #ffffff;
+}
+
+.size {
+  font-size: 12px;
+  line-height: 24px;
+}
+
+.left {
+  text-align: left;
+}
+
+.hr-width {
+  width: 540px;
+}
+
+.indent {
+  padding-top: 5px;
+}
 
 .header p {
   color: #fff;

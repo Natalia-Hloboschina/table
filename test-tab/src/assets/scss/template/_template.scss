@@ -25,21 +25,16 @@ html,
   padding-bottom: 0;
 }
 
-.wrapper-middle {
+.background-fone {
   background:#f1f1f1;
 }
 
-.wrapper-footer {
+.background-fone1 {
   background:#e1e1e1;
 }
 
 
-.columns-middle {
-  background:#ffffff;
-}
-
-
-.background-row1 {
+.background-fone2 {
   background: #666666;
 }
 
@@ -53,14 +48,15 @@ html,
 
 .text2 {
   color: #ffffff;
+  line-height: 24px;
 }
 
-.size {
+.size-text {
   font-size: 12px;
   line-height: 24px;
 }
 
-.left {
+.text-left {
   text-align: left;
 }
 
@@ -71,6 +67,13 @@ html,
 .indent {
   padding-top: 5px;
 }
+.offset-right {
+  padding: 0 0 15px 25px;
+}
+.offset-right1 {
+  padding-right: 5px;
+}
+
 
 .header p {
   color: #fff;

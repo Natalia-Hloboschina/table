@@ -43,7 +43,7 @@ html,
 }
 
 .text1 {
-  color: #999999;
+  color: #999999 !important;
 }
 
 .text2 {
@@ -56,24 +56,30 @@ html,
   line-height: 24px;
 }
 
-.text-left {
-  text-align: left;
+
+.text3 {
+  color: #ffffff !important;
 }
+
 
 .hr-width {
   width: 540px;
 }
 
-.indent {
-  padding-top: 5px;
-}
+
 .offset-right {
   padding: 0 0 15px 25px;
 }
 .offset-right1 {
-  padding-right: 5px;
+  padding-right: 5px !important;
+}
+.offset-left1 {
+padding-left: 8px !important;
 }
 
+.offset-left2 {
+  padding-left: 30px !important;
+  }
 
 .header p {
   color: #fff;
